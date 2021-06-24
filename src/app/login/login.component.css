@@ -1,0 +1,41 @@
+mat-card{
+  max-width: 500px;
+  min-width: 500px;
+  min-height: 65%;
+  border-radius: 10px;
+}
+
+mat-form-field{
+  width: 450px;
+}
+
+.mat-card{
+  /* margin-left: 450px !important; */
+  margin-top: 80px !important;
+}
+
+.head{
+  font-size: 1.8em;
+  font-weight: 500;
+  border-radius: 5px;
+  font-family :'Times New Roman', Times, serif;
+  color: white;
+  justify-content: center;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.048), 0 10px 10px rgba(0,0,0,0.22);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.btn0, .btn1 {
+  width: 100%;
+  color: white;
+}
+
+.link{
+  text-align: center;
+  font-weight: 500;
+}
+
+.mat-card{
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0), 0 10px 10px rgba(0,0,0,0.22);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}

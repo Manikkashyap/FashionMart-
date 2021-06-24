@@ -1,0 +1,71 @@
+b, strong {
+  font-weight: bolder;
+  color: black;
+}
+
+.example-card{
+  max-width: 300px;
+}
+
+.description{
+  font-size: 1.1em;
+  max-height: 7em;
+  font-family: 'Times New Roman', Times, serif;
+  display: block;
+  color: rgba(0, 0, 0, 0.555);
+  text-align: left;
+}
+
+.brand{
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+.fltr{
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.card-title{
+  font-weight: 500;
+}
+
+.custom-control-label{
+  color: black;
+  font-weight: 400;
+}
+
+#cartbtn{
+  width: 100%;
+}
+
+.price{
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.price-old{
+  margin-left: 10px;
+  font-size: 0.8em;
+}
+
+#s{
+  margin: 3px;
+}
+
+#m{
+  margin: 3px;
+}
+
+#l{
+  margin: 3px;
+}
+
+#xl{
+  margin: 3px;
+}
+
+#xxl{
+  margin: 3px;
+}
+
